@@ -1,0 +1,6 @@
+A:\Projects\VS\codeforces\Lakes in Berland\Lakes in Berland\bin\Debug\Lakes in Berland.exe.config
+A:\Projects\VS\codeforces\Lakes in Berland\Lakes in Berland\bin\Debug\Lakes in Berland.exe
+A:\Projects\VS\codeforces\Lakes in Berland\Lakes in Berland\bin\Debug\Lakes in Berland.pdb
+A:\Projects\VS\codeforces\Lakes in Berland\Lakes in Berland\obj\Debug\Lakes in Berland.csprojResolveAssemblyReference.cache
+A:\Projects\VS\codeforces\Lakes in Berland\Lakes in Berland\obj\Debug\Lakes in Berland.exe
+A:\Projects\VS\codeforces\Lakes in Berland\Lakes in Berland\obj\Debug\Lakes in Berland.pdb

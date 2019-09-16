@@ -1,0 +1,6 @@
+A:\Projects\VS\codeforces\anatoly and cockroaches\anatoly and cockroaches\bin\Debug\anatoly and cockroaches.exe.config
+A:\Projects\VS\codeforces\anatoly and cockroaches\anatoly and cockroaches\bin\Debug\anatoly and cockroaches.exe
+A:\Projects\VS\codeforces\anatoly and cockroaches\anatoly and cockroaches\bin\Debug\anatoly and cockroaches.pdb
+A:\Projects\VS\codeforces\anatoly and cockroaches\anatoly and cockroaches\obj\Debug\anatoly and cockroaches.csprojResolveAssemblyReference.cache
+A:\Projects\VS\codeforces\anatoly and cockroaches\anatoly and cockroaches\obj\Debug\anatoly and cockroaches.exe
+A:\Projects\VS\codeforces\anatoly and cockroaches\anatoly and cockroaches\obj\Debug\anatoly and cockroaches.pdb

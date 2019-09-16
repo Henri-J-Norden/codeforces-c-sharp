@@ -1,0 +1,5 @@
+A:\Projects\VS\codeforces\Polycarp at the Radio\Polycarp at the Radio\bin\Debug\Polycarp at the Radio.exe.config
+A:\Projects\VS\codeforces\Polycarp at the Radio\Polycarp at the Radio\bin\Debug\Polycarp at the Radio.exe
+A:\Projects\VS\codeforces\Polycarp at the Radio\Polycarp at the Radio\bin\Debug\Polycarp at the Radio.pdb
+A:\Projects\VS\codeforces\Polycarp at the Radio\Polycarp at the Radio\obj\Debug\Polycarp at the Radio.exe
+A:\Projects\VS\codeforces\Polycarp at the Radio\Polycarp at the Radio\obj\Debug\Polycarp at the Radio.pdb

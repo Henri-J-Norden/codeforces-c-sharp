@@ -1,0 +1,6 @@
+A:\Projects\VS\codeforces\The New Year - Meeting Friends\The New Year - Meeting Friends\bin\Debug\The New Year - Meeting Friends.exe.config
+A:\Projects\VS\codeforces\The New Year - Meeting Friends\The New Year - Meeting Friends\bin\Debug\The New Year - Meeting Friends.exe
+A:\Projects\VS\codeforces\The New Year - Meeting Friends\The New Year - Meeting Friends\bin\Debug\The New Year - Meeting Friends.pdb
+A:\Projects\VS\codeforces\The New Year - Meeting Friends\The New Year - Meeting Friends\obj\Debug\The New Year - Meeting Friends.csprojResolveAssemblyReference.cache
+A:\Projects\VS\codeforces\The New Year - Meeting Friends\The New Year - Meeting Friends\obj\Debug\The New Year - Meeting Friends.exe
+A:\Projects\VS\codeforces\The New Year - Meeting Friends\The New Year - Meeting Friends\obj\Debug\The New Year - Meeting Friends.pdb

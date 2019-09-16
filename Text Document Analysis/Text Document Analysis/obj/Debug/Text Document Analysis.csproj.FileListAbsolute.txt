@@ -1,0 +1,5 @@
+A:\Projects\VS\codeforces\Text Document Analysis\Text Document Analysis\bin\Debug\Text Document Analysis.exe.config
+A:\Projects\VS\codeforces\Text Document Analysis\Text Document Analysis\bin\Debug\Text Document Analysis.exe
+A:\Projects\VS\codeforces\Text Document Analysis\Text Document Analysis\bin\Debug\Text Document Analysis.pdb
+A:\Projects\VS\codeforces\Text Document Analysis\Text Document Analysis\obj\Debug\Text Document Analysis.exe
+A:\Projects\VS\codeforces\Text Document Analysis\Text Document Analysis\obj\Debug\Text Document Analysis.pdb
